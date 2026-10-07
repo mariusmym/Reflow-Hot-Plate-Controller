@@ -102,7 +102,7 @@ The 3D-printable case is in the **STL FILES and F3Z** folder, and also on Printa
 Use it. A board with exposed mains is not a "minimalist design", it's a hazard.
 
 <p align="center">
-  <img src="Images/inside_case.jpg" width="49%" alt="Board wired inside the case">
+  <img src="Images/inside_case.jpg" width="30%" alt="Board wired inside the case">
   <img src="Images/display.jpg" width="49%" alt="Reflow profile on the display">
 </p>
 
