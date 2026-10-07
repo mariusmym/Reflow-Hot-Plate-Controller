@@ -1,6 +1,6 @@
 # Reflow Hot Plate Controller
 
-An **80×80mm** reflow hot plate controller board built around an **Arduino Pro Mini**. Put a PCB on the plate, pick a profile, and watch the solder paste turn into shiny joints. 
+An **80×80mm** reflow hot plate controller board built around an **Arduino Pro Mini**. Just put a PCB on the plate, pick a profile, and watch the solder paste turn into shiny joints. 
 
 It's like a toaster oven, but for people who own more tweezers than forks.
 
