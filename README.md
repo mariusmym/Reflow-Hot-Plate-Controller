@@ -69,7 +69,7 @@ These are **not** included in the BOM:
 - **1.8" ST7735 TFT display**: [AliExpress](https://www.aliexpress.com/item/32974789010.html)
 - **Rotary encoder module**: [AliExpress](https://www.aliexpress.com/item/1005006986329518.html)
 - **PTC heating plate** (150×120mm): [AliExpress](https://www.aliexpress.com/w/wholesale-PTC-Heating-Plate.html). Choose one rated for your mains voltage (220V/230V or 110V/120V)!
-- **TO-220 aluminum heatsink** for the BTA08 triac: [AliExpress](https://www.aliexpress.com/w/wholesale-to-220-heat-sink.html). The triac gets warm switching the heater, and a warm triac is a happy triac. A hot one is a short-lived one.
+- **TO-220 aluminum heatsink** for the BTA08 triac: [AliExpress](https://www.aliexpress.com/w/wholesale-to-220-heat-sink.html). The triac gets warm switching the heater, and a warm triac is a happy triac, while a hot one is a short-lived one.
 - **60mm 5V fan**: [AliExpress](https://www.aliexpress.com/w/wholesale-60mm-fan-5v.html)
 
 ## Firmware 
