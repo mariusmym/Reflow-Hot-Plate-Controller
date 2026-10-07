@@ -69,7 +69,7 @@ These are **not** included in the BOM:
 - **1.8" ST7735 TFT display**: [AliExpress](https://www.aliexpress.com/item/32974789010.html)
 - **Rotary encoder module**: [AliExpress](https://www.aliexpress.com/item/1005006986329518.html)
 - **PTC heating plate** (150×120mm): [AliExpress](https://www.aliexpress.com/w/wholesale-PTC-Heating-Plate.html). Choose one rated for your mains voltage (220V/230V or 110V/120V)!
-- **TO-220 aluminum heatsink** for the BTA08 triac: [AliExpress](https://www.aliexpress.com/w/wholesale-to-220-heat-sink.html). The triac gets warm switching the heater, and a warm triac is a happy triac; a hot one is a short-lived one.
+- **TO-220 aluminum heatsink** for the BTA08 triac: [AliExpress](https://www.aliexpress.com/w/wholesale-to-220-heat-sink.html). The triac gets warm switching the heater, and a warm triac is a happy triac. A hot one is a short-lived one.
 - **60mm 5V fan**: [AliExpress](https://www.aliexpress.com/w/wholesale-60mm-fan-5v.html)
 
 ## Firmware 
@@ -99,7 +99,7 @@ Full BOM in the **GERBER, BOM, PNP** folder.
 
 The 3D-printable case is in the **STL FILES and F3Z** folder, and also on Printables: https://www.printables.com/model/1217156-reflow-hot-plate-controller-board-case
 
-Use it. A board with exposed mains is not a "minimalist design", it's a hazard.
+**USE IT**. A board with exposed mains is not a "minimalist design", it's a hazard.
 
 <p align="center">
   <img src="Images/inside_case.jpg" width="37%" alt="Board wired inside the case">
